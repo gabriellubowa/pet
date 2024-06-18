@@ -20,7 +20,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pet.ug/terms" # the base hostname & protocol for your site, e.g. http://example.com
 repository: gabriellubowa/pet # for github-metadata
 
+<<<<<<< HEAD
 theme: just-the-docs
+=======
+>>>>>>> 258b7831851e5becf4aea6238d384861ae134489
 
 
 permalink: pretty
