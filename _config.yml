@@ -17,7 +17,7 @@ title: Pet UG
 tagline: Fostering Fur-ver Bonds
 description: Comprehensive Pet Platform For Uganda, Offering Adoption, Breeding, Grooming, Walking, Boarding, Shopping, Training, Vet Services, Listings, Records, And A Pet Community – Honoring Ugandan Pet Culture.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gabriellubowa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pet.ug/terms" # the base hostname & protocol for your site, e.g. http://example.com
 repository: gabriellubowa/pet # for github-metadata
 
 permalink: pretty
