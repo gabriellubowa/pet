@@ -33,18 +33,42 @@ permalink: /
 
 For the purposes of these Terms and Conditions:
 
-- `Affiliate` means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-- `Account` means a unique account created for You to access our Service or parts of our Service.
-- `Country` refers to: Uganda
-- `Company` (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Pet UG.
-- `Content` refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
-- `Device` means any device that can access the Service such as a computer, a cellphone or a digital tablet.
-- `Feedback` means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
-- `Service` refers to the Website.
-- `Terms and Conditions` (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
-- `Third-party Social Media Service` means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-- `Website` refers to Pet UG, accessible from [www.pet.ug](https://pet.ug)
-- `You` means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+Affiliate
+:  means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+
+
+Account
+: means a unique account created for You to access our Service or parts of our Service.
+
+Country
+: refers to: Uganda
+
+Company
+: (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Pet UG.
+
+Content
+: refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
+
+Device
+: means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+
+Feedback
+: means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
+
+Service
+: refers to the Website.
+
+Terms and Conditions
+: (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
+
+Third-party Social Media Service
+: means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+
+Website
+: refers to Pet UG, accessible from [www.pet.ug](https://pet.ug)
+
+You
+: means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 ## Acknowledgment
 {: .fs-6 }

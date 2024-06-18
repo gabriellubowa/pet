@@ -1,6 +1,7 @@
 ---
 title: Migration and Upgrading
 layout: default
+nav_order: 2
 ---
 
 # Migrating and Upgrading
@@ -16,6 +17,11 @@ Summary
     - features that have become deprecated (and are likely to be removed in a future release).
 
 This document contains instructions on how to migrate and upgrade Just the Docs sites from every minor or major version bump, starting from `v0.3.3` to `v0.4.0`.
+
+:   ggfhdbfhryrn
+    bggnhhhm
+  
+    nngmhmh
 
 <details open markdown="block">
   <summary>
