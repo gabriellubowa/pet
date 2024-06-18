@@ -16,7 +16,7 @@
 title: Pet UG
 description: Fostering Fur-ver bonds
 baseurl: "/pet" # the subpath of your site, e.g. /blog
-url: "gabriellubowa.github.iom" # the base hostname & protocol for your site, e.g. http://example.com
+url: "gabriellubowa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: gabriellubowa/pet # for github-metadata
 
 permalink: pretty
