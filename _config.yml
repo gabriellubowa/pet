@@ -19,6 +19,7 @@ description: Comprehensive Pet Platform For Uganda, Offering Adoption, Breeding,
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pet.ug/terms" # the base hostname & protocol for your site, e.g. http://example.com
 repository: gabriellubowa/pet # for github-metadata
+theme: just-the-docs
 
 permalink: pretty
 
