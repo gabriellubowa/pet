@@ -21,11 +21,14 @@ permalink: /
 {:toc}
 </details>
 
+
+## Interpretation
+
 {: .note }
 > The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in ingular or in plural.
 
 
-## Definitions
+### Definitions
 {: .fs-6 }
 
 For the purposes of these Terms and Conditions:
@@ -163,7 +166,6 @@ We reserve the right, at Our sole discretion, to modify or replace these Terms a
 By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. 
 
 If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-
 
 {: .warning }
 last updated on 17th June 2024
