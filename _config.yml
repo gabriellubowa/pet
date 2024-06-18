@@ -21,6 +21,7 @@ url: "https://pet.ug/terms" # the base hostname & protocol for your site, e.g. h
 repository: gabriellubowa/pet # for github-metadata
 theme: just-the-docs
 
+
 permalink: pretty
 
 exclude:

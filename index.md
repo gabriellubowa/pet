@@ -4,6 +4,7 @@ title: Terms of Use
 nav_order: 1
 description: "Terms and Conditions."
 permalink: /
+
 ---
 
  Terms of Use
